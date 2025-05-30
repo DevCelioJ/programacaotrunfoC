@@ -14,15 +14,15 @@ int main() {
     printf("Carta A\n");
 
     printf("Estado: \n");
-    scanf("%s", &estado);
+    scanf("%s", estado);
     printf("\n");
 
     printf("Código da Carta: \n");
-    scanf("%s", &codigo);
+    scanf("%s", codigo);
     printf("\n");
 
     printf("Nome da Cidade: \n");
-    scanf("%s", &nome);
+    scanf("%s", nome);
     printf("\n");
 
     printf("População: \n");
@@ -57,15 +57,15 @@ int main() {
     printf("Carta B\n");
 
     printf("Estado: \n");
-    scanf("%s", &estado);
+    scanf("%s", estado);
     printf("\n");
     
     printf("Código da Carta: \n");
-    scanf("%s", &codigo);
+    scanf("%s", codigo);
     printf("\n");
     
     printf("Nome da Cidade: \n");
-    scanf("%s", &nome);
+    scanf("%s", nome);
     printf("\n");
     
     printf("População: \n");
